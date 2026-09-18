@@ -1,0 +1,10 @@
+{
+  "name": "Remix VeriReturn AI — Return Evidence \u0026 Fraud Detection",
+  "description": "End-to-end AI vision platform for return evidence verification, vehicle and product damage detection powered by ashtroll/damage-detector YOLOv8s, image forensics, and autonomous claim adjudication.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
